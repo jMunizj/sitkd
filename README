@@ -1,0 +1,15 @@
+SITKD
+
+
+Objetivo General
+
+	Sitio web que permite realizar llevar un control de la informacion relacionada a una escuela de Tae Kwon Do,
+	desde la inscripcion de los alumnos, hasta la impresion de Certificados.
+
+
+Objetivos Especificos
+	Registro de la informacion de alumnos
+	Registro de pagos de clases ( por clase, Semanal, Quincenal, Mensual)
+	Registro de diversos pagos
+	Registro de maestros,instructures.
+	Reportes
